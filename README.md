@@ -1,5 +1,4 @@
-# React-auth
-Starter react app to use authentication
+Client app for help_this_pal
 
 
 IN PROGRESS
